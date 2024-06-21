@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Rocket League</title>
+	<style type="text/css"> 
+		header{
+        background-color: #E8E8E8;
+        color: mediumpurple;
+        text-align: center;
+        padding: 20px;
+     }
+      h1 { text-align: center; }
+      p { text-align: center; }
+      h2 {text-align: center}
+      ul{text-align: center}
+      li {padding: 10px}
+      ul{list-style-type: none}
+      h3 { text-align: center }
+
+      
+
+
+header img {
+      width: 40%;
+      border-radius: 10%;
+  }
+  table {
+  	background-color: lightslategray; color: black; text-align: center; width: 40%; border-radius: 10px; border: 1px solid blue;
+  }
+	</style>
+</head>
+<body>
+	<header>
+        <img src="imagens/fotinha.jfif"width="900" alt="foto" title="Foto do Jogo" id="logo"> 
+        <h1 style = "color: Purple">Rocket League</h1>
+    </header>
+    <div>
+	<h1>O que é? <img src="imagens/image.png" width="100"></h1> 
+	<p style="font-size: 20px;">	O que é a Rocket League? Rocket League é um videogame multijogador desenvolvido pela Psyonix, uma desenvolvedora de videogames com sede na Califórnia. Normalmente envolve duas equipes lutando entre si em uma série de rodadas que envolvem basquete, futebol e hóquei em carros para marcar mais gols. Este é um link para o<a href="https://www.youtube.com/@rlesports"> Rocket League Esports</a></p>
+</div>
+<div>
+	<h2>Como instalar o Rocket league?</h2>
+	<ul style="font-size: 20px;">
+		<li>Passo 1: Entre no site oficial da Epic Games Store e faça o download do launcher.</li>
+		<li>Passo 2: Após baixá-lo, crie uma conta ou, caso já possua, faça o login.</li>
+		<li>Passo 3: Clique em "Store" e, em seguida, procure por Rocket League.</li>
+		<li>Passo 4: (Os próximos passo a passo foram simulados porque o jogo ainda não está disponível na plataforma). Abra a página do jogo e clique em "obter", que está ao lado da descrição.</li>
+		<li>Passo 5: Conclua o processo e você já está pronto para baixar e jogar Rocket League gratuitamente.</li>
+	</ul></div>
+	<div>
+	<h3>ALGUNS JOGADORES</h3>
+	<center>
+	<table border = "2">
+		<tr>
+			<td>Nome</td><td>Time</td>
+			<tr>
+<td>Yanxnz</td><td>Fúria</td>
+</tr>
+<tr><td>Droppz</td>
+	<td>Hero Base</td>
+</tr>
+<tr><td>Caard</td><td>KRUesports</td></tr>
+<tr><td>Nxghtt</td><td>Nip</td></tr>
+</table></center></div>
+<div>
+	<h1>Entre nos canais das Equipes</h1>
+	<ul>
+		<li> <a href="https://www.youtube.com/@herobase"> Hero Base</a></li>
+		<li> <a href="https://www.youtube.com/@NIPGaming"> Nip</a></li>
+		<li> <a href="https://www.youtube.com/@KRUesports"> KRUesports</a></li>
+		<li> <a href="https://www.youtube.com/@FURIAgg"> Furia</a></li>
+	</ul>
+
+</div>
+
+
+</body>
+</html>
