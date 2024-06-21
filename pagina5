@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Página</title>
+   <style type="text/css">
+     body{
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+     }
+     header{
+        background-color: #E8E8E8;
+        color: #786868;
+        text-align: center;
+        padding: 20px;
+     }
+     header img {
+      width: 40%;
+      border-radius: 10%;
+     }
+     .container {
+        width: 80%;
+        margin: 0 auto;
+        padding:20px;
+     }
+     .column {
+        width: 30%;
+        margin: 10px;
+        float: left;
+     }
+     footer {
+        background: rgb(2,0,36);
+        background: linear-gradient(90deg,rgba(2,0, 36, 1)0%, rgba(9,9,121,1)35%, rgba(0,212,255,1)100%);
+        color: #fff;
+        text-align: center;
+        padding: 20px;
+        clear: both;
+     }
+     footer .division {
+        width: 25%;
+        display: inline-block;
+     }
+   </style>
+</head>
+<body>
+    <header>
+        <img src="imagens/logo_senac.png" alt="Logo" title="Logo do Senac" id="logo"> 
+        <h1>Título da Página</h1>
+    </header>
+ 
+    <div class="container">
+        <div class="column">
+            <h2>Coluna 1</h2>
+            <p>Texto da coluna 1.</p>
+        </div>
+ 
+        <div class="column">
+            <h2>Coluna 2</h2>
+            <p>Texto da coluna 2.</p>
+        </div>
+ 
+        <div class="column">
+            <h2>Coluna 3</h2>
+            <p>Texto da coluna 3.</p>
+        </div>
+    </div>
+ 
+    <footer>
+        <div class="division">Divisão 1</div>
+        <div class="division">Divisão 2</div>
+        <div class="division">Divisão 3</div>
+    </footer>
+</body>
+
+</html>
